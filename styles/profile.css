@@ -178,3 +178,45 @@ button:hover{
     margin-top:20px;
     border-radius:48px;
 }
+.main-sec5{
+    display:flex;
+    margin:92px 150px 14px 150px;
+    gap:115px;
+    align-items:center;
+}
+.div-p{
+    font-weight:bold;
+    font-size:97px;
+    color:#000000;
+}
+.label-text{
+    font-size:18px;
+    margin-bottom:10px;
+     margin-top:15px;
+}
+
+.input-text{
+    padding:20px 32px;
+    border-radius:10px;
+    background-color:white;
+    width:468px;
+    height:29px; 
+    display:block;
+    margin-bottom:20px;
+    border:1px solid rgba(0, 0, 0, 0.2);  
+}
+.textarea-input{
+    
+    padding:20px 32px;
+    border-radius:10px;
+    background-color:white;
+    width:468px;
+    height:60px; 
+    display:block;
+    margin-bottom:20px;
+    border:1px solid rgba(0, 0, 0, 0.2); 
+}
+.optional{
+    width:535px;
+    height:38px;
+}
