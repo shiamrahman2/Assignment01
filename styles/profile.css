@@ -130,7 +130,7 @@ button:hover{
     margin-top: 50px;
     border-radius:14px;
     padding:24px;
-    background-color:rgba(242, 237, 237, 1);
+    background-color:rgba(242, 237, 237, .4);
     border:1px solid white;
 }
 .img-card-inside{
@@ -154,4 +154,27 @@ button:hover{
 .main-date-type{
     font-size:20px;
     color:rgb(0,0,0,0.3);
+}
+.main-sec4{
+    margin:170px 149px 92px 151px;
+    border-radius:14px;
+    background-color:rgba(242, 237, 237, .4);
+    text-align:center;
+    padding:71px 150px;
+}
+.sec4-1{
+    font-weight:bold;
+    font-size: 50px;
+    color:#000000;
+}
+.sec4-2{
+    margin-top:20px;
+    color:rgba(0, 0, 0, 0.5);
+}
+.sec4-3{
+    margin-top:20px;
+}
+.sec4-4{
+    margin-top:20px;
+    border-radius:48px;
 }
