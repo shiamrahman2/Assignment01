@@ -5,7 +5,7 @@
   font-style: normal;
    
 }
- .bg{
+ .bg-img{
     height:680px;
     width:auto;
     background-image:url(../Assets/Hero-bg.png);
@@ -23,6 +23,7 @@
 .head-sec{
       color:#252432;
        font-weight:bold;
+       font-size:65px;
 }
 .list-items{
     list-style:none;
