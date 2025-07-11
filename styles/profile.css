@@ -39,7 +39,7 @@
 }
 .logo{
     color:blue;
-    font-weight:900px;
+    font-weight:bold;
     font-size:35px;
 }
 .head-section{
@@ -75,18 +75,15 @@ button:hover{
  font-size:24px;
  color:#252432;
 }
-.tittle{
-   
-}
 .sec1-img{
     border:none;
     border-radius:48px;
     width:403px;
     height:328px;
 }
-body{
+/* body{
     background-color:white;
-}
+} */
 .preview{
     display:flex;
     justify-content:space-around;
@@ -119,4 +116,42 @@ body{
   margin: 0;
   padding: 0;
   line-height: 1;
+}
+.main-sec3{
+    margin:137px 149px 137px 151px;
+}
+.sec3-header{
+    font-weight: bold;
+    font-size:42px;
+    color:#252432;
+    text-align: center;
+}
+.card{
+    margin-top: 50px;
+    border-radius:14px;
+    padding:24px;
+    background-color:rgba(242, 237, 237, 1);
+    border:1px solid white;
+}
+.img-card-inside{
+    width:40px;
+    height:40px;
+    border-radius:9999px;
+    
+}
+.h4-tittle{
+   color:#1E1E1E; 
+}
+.card-inside{
+    display:flex;
+    gap:5px;
+}
+.mother-card{
+    display:flex;
+    justify-content:space-around;
+    gap:20px;
+}
+.main-date-type{
+    font-size:20px;
+    color:rgb(0,0,0,0.3);
 }
