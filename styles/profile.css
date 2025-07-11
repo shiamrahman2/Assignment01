@@ -220,3 +220,42 @@ button:hover{
     width:535px;
     height:38px;
 }
+.full{
+    background-color:rgba(242, 237, 237, .4);
+}
+/* footer{
+    
+    background-color:rgba(242, 237, 237, .4);
+} */
+.footer-tittle{
+    font-size:100px;
+    font-weight: bold;
+    color:blue;
+}
+.footer-p{
+    color:rgba(137, 135, 161, 1);
+}
+.footer-main-div{
+margin:103px 454px;
+    align-items:center;
+}
+.div-footer{
+   color:rgba(137, 135, 161, 1); 
+   
+}
+ .navbar {
+      display: flex;
+      gap: 40px;
+      justify-content: center;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
+
+    .navbar a {
+      text-decoration: none;
+      color: #999;
+      font-size: 16px;
+    }
+    body{
+        background-color:white;
+    }
