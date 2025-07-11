@@ -87,3 +87,36 @@ button:hover{
 body{
     background-color:white;
 }
+.preview{
+    display:flex;
+    justify-content:space-around;
+    margin-top:40px;
+}
+.main-sec2{
+    margin:116px 159px 137px 141px;
+   background-color:rgba(78, 71, 255, 0.13);
+   padding:50px 142px;
+    border-radius:26px;
+}
+.section02-tittle
+{
+    font-weight:bold;
+    font-size: 38px;
+    color:#252432;
+    text-align:center;
+}
+.main-h-type{
+    font-weight:bold ;
+    font-size:80px ;
+    color:#4E47FF;
+}
+.main-p-type{
+    font-size:20px;
+    color:rgb(0,0,0,0.5);
+}
+.nav-item-head,
+.main-p-type {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
